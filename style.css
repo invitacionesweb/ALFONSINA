@@ -1,8 +1,8 @@
 :root {
     --color-principal:#FFFFFF;
     --color-secundario:#FCBEFB;
-    --color-terciario:#FCBEFB;
-    --color-cuarto:#CCE5B2;
+    --color-terciario:#D2B0F3;
+    --color-cuarto:#ABC837;
     --color-quinto:#ABC837;
 
     --font-principal:'Schoolbell', cursive;
@@ -160,7 +160,7 @@ main img {
 main p {
     padding: 6px 40px 30px 40px;
     max-width: 350px;
-    font-size: 1em;
+    font-size: 1.2em;
     
 }
 .galeria {
@@ -193,7 +193,7 @@ main p {
 .segundo p {
     padding: 6px 40px;
     max-width: 500px;
-    font-size: 1em;
+    font-size: 1.2em;
     
 }
 .segundo img{
@@ -233,7 +233,7 @@ footer {
     width: 100%;
     height: auto;
     margin: 0;
-    background-color: var(--color-terciario);
+    background-color: var(--color-secundario);
     color: var(--color-principal);
     padding: 40px 0;
     text-align: center;
